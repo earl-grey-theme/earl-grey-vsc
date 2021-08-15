@@ -166,7 +166,7 @@
 		"terminal.ansiBrightRed": "◊(eg-color 'red)",
 		"terminal.ansiBrightWhite": "◊(eg-color 'bg)",
 		"terminal.ansiBrightYellow": "◊(eg-color 'orange)",
-		"breadcrumb.background": "◊(eg-color 'bg2)",
+		"breadcrumb.background": "◊(eg-color 'bg)",
 		"breadcrumb.foreground": "◊(eg-color 'grey7)",
 		"breadcrumb.focusForeground": "◊(eg-color 'grey9)",
 		"breadcrumb.activeSelectionForeground": "◊(eg-color 'purple)",

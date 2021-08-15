@@ -165,7 +165,7 @@
                 "terminal.ansiBrightRed": "#8F5652",
                 "terminal.ansiBrightWhite": "#FCFBF9",
                 "terminal.ansiBrightYellow": "#886A44",
-                "breadcrumb.background": "#F7F3EE",
+                "breadcrumb.background": "#FCFBF9",
                 "breadcrumb.foreground": "#8F8A84",
                 "breadcrumb.focusForeground": "#706A63",
                 "breadcrumb.activeSelectionForeground": "#83577D",
