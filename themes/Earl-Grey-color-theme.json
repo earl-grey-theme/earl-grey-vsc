@@ -684,6 +684,13 @@
                 },
                 // JS
                 {
+                        "name": "JS new keyword",
+                        "scope": "keyword.operator.new.js",
+                        "settings": {
+                                "foreground": "#83577D"
+                        }
+                },
+                {
                         "name": "JS variable object",
                         "scope": "variable.other.object.js",
                         "settings": {

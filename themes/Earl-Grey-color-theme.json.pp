@@ -685,6 +685,13 @@
 		},
 		// JS
 		{
+			"name": "JS new keyword",
+			"scope": "keyword.operator.new.js",
+			"settings": {
+				"foreground": "◊(eg-color 'purple)"
+			}
+		},
+		{
 			"name": "JS variable object",
 			"scope": "variable.other.object.js",
 			"settings": {
