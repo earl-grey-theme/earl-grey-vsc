@@ -1,10 +1,6 @@
 {
         "name": "Earl Grey",
         "type": "light",
-        "colors": {
-                "editor.background": "#FCFBF9",
-                "editor.foreground": "#605A52"
-        },
         "semanticHighlighting": true,
         "semanticTokenColors": {
                 "enumMember": {
