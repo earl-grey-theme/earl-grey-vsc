@@ -30,7 +30,6 @@
                 "textPreformat.foreground": "#886A44",
                 "textSeparator.foreground": "#7F7A73",
                 "textCodeBlock.background": "#F7F3EE",
-
                 "activityBar.foreground": "#605A52",
                 "activityBar.background": "#F7F3EE",
                 "activityBar.activeBorder": "#83577D",
@@ -40,7 +39,6 @@
                 "activityBarBadge.foreground": "#FCFBF9",
                 "activityBarBadge.background": "#7686A9",
                 "activityBar.border": "#F7F3EE",
-
                 "sideBar.background": "#F7F3EE",
                 "sideBar.foreground": "#605A52",
                 "sideBarSectionHeader.background": "#F7F3EE",
