@@ -31,6 +31,8 @@
 		"textPreformat.foreground": "◊(eg-color 'orange)",
 		"textSeparator.foreground": "◊(eg-color 'grey8)",
 		"textCodeBlock.background": "◊(eg-color 'bg2)",
+
+		// Activity Bar
 		"activityBar.foreground": "◊(eg-color 'fg)",
 		"activityBar.background": "◊(eg-color 'bg2)",
 		"activityBar.activeBorder": "◊(eg-color 'purple)",
@@ -40,12 +42,16 @@
 		"activityBarBadge.foreground": "◊(eg-color 'bg)",
 		"activityBarBadge.background": "◊(eg-color 'blue8)",
 		"activityBar.border": "◊(eg-color 'bg2)",
+
+		// Sidebar
 		"sideBar.background": "◊(eg-color 'bg2)",
 		"sideBar.foreground": "◊(eg-color 'fg)",
 		"sideBarSectionHeader.background": "◊(eg-color 'bg2)",
 		"sideBarSectionHeader.foreground": "◊(eg-color 'grey8)",
 		"sideBarSectionHeader.border": "◊(eg-color 'grey3)",
 		"sideBarTitle.foreground": "◊(eg-color 'grey8)",
+
+		// Tree, List
 		"tree.indentGuidesStroke": "◊(eg-color 'grey4)",
 		"tree.tableColumnsBorder": "◊(eg-color 'grey4)",
 		"list.activeSelectionBackground": "◊(eg-color 'purple8)",
@@ -65,6 +71,8 @@
 		"listFilterWidget.background": "◊(eg-color 'bg)",
 		"listFilterWidget.outline": "◊(eg-color 'purple8)",
 		"listFilterWidget.noMatchesOutline": "◊(eg-color 'red8)",
+
+		// Statusbar
 		"statusBar.foreground": "◊(eg-color 'bg)",
 		"statusBar.background": "◊(eg-color 'blue)",
 		"statusBarItem.activeBackground": "◊(eg-color 'blue8)",
@@ -77,13 +85,19 @@
 		"statusBarItem.remoteForeground": "◊(eg-color 'bg)",
 		"statusBarItem.errorForeground": "◊(eg-color 'red2)",
 		"statusBarItem.errorBackground": "◊(eg-color 'red)",
+
+		// TitleBar
 		"titleBar.activeBackground": "◊(eg-color 'grey2)",
 		"titleBar.activeForeground": "◊(eg-color 'grey5)",
 		"titleBar.inactiveBackground": "◊(eg-color 'grey1)",
 		"titleBar.inactiveForeground": "◊(eg-color 'grey4)",
 		"titleBar.border": "◊(eg-color 'fg)",
+
+		// Menubar
 		"menubar.selectionForeground": "◊(eg-color 'fg)",
 		"menubar.selectionBackground": "◊(eg-color 'bg2)",
+
+		// Menu
 		"menu.foreground": "◊(eg-color 'fg)",
 		"menu.background": "◊(eg-color 'bg2)",
 		"menu.selectionForeground": "◊(eg-color 'fg)",
@@ -91,9 +105,13 @@
 		"menu.selectionBorder": "◊(eg-color 'fg)",
 		"menu.separatorBackground": "◊(eg-color 'grey4)",
 		"menu.border": "◊(eg-color 'grey4)",
+
+		// Banner
 		"banner.background": "◊(eg-color 'blue)",
 		"banner.foreground": "◊(eg-color 'bg)",
 		"banner.iconForeground": "◊(eg-color 'blue1)",
+
+		// Button, Input
 		"button.background": "◊(eg-color 'blue)",
 		"button.foreground": "◊(eg-color 'bg)",
 		"button.hoverBackground": "◊(eg-color 'blue9)",
@@ -116,56 +134,81 @@
 		"inputValidation.warningForeground": "◊(eg-color 'bg)",
 		"inputValidation.warningBorder": "◊(eg-color 'orange)",
 		"input.placeholderForeground": "◊(eg-color 'grey6)",
+
+		// Line numbers
 		"editorLineNumber.foreground": "◊(eg-color 'grey3)",
 		"editorLineNumber.activeForeground": "◊(eg-color 'grey7)",
+
+		// Cursor
 		"editorCursor.foreground": "◊(eg-color 'blue7)",
 		"editorCursor.background": "◊(eg-color 'bg)",
+
+		// Editor whitespace
 		"editorWhitespace.foreground": "◊(eg-color 'grey4)",
+
+		// Editor inlay hint
 		"editorInlayHint.background": "◊(eg-color 'bg2)",
 		"editorInlayHint.foreground": "◊(eg-color 'grey8)",
 
+		// Editor
 		"editor.background": "◊(eg-color 'bg)",
 		"editor.foreground": "◊(eg-color 'fg)",
 
+		// Selection
 		"editor.selectionBackground": "◊(eg-color 'purple1)",
 		"editor.inactiveSelectionBackground": "◊(eg-color 'grey4)33",
-
 		"editor.selectionHighlightBackground": "◊(eg-color 'purple)11",
 		"editor.selectionHighlightBorder": "◊(eg-color 'purple2)22",
 
+		// Find, Search
 		"editor.findMatchBackground": "◊(eg-color 'blue1)",
 		"editor.findMatchBorder": "◊(eg-color 'blue)44",
-
 		"editor.findMatchHighlightBackground": "◊(eg-color 'blue)11",
 		"editor.findMatchHighlightBorder": "◊(eg-color 'blue)11",
-
 		"editor.findRangeHighlightBackground": "◊(eg-color 'blue)22",
-
 		"editor.rangeHighlightBackground": "◊(eg-color 'purple1)33",
 		"editor.rangeHighlightBorder": "◊(eg-color 'purple1)33",
 
+		// Hover
 		"editor.hoverHighlightBackground": "◊(eg-color 'blue)1d",
 
+		// Word highlight
 		"editor.wordHighlightBackground": "◊(eg-color 'purple)11",
 		"editor.wordHighlightStrongBackground": "◊(eg-color 'purple)11",
 		"editor.wordHighlightStrongBorder": "◊(eg-color 'purple)33",
 
+		// (Current) Line highlight
 		"editor.lineHighlightBorder": "◊(eg-color 'grey4)33",
 
+		// Search Editor
 		"searchEditor.findMatchBackground": "◊(eg-color 'orange1)",
 		"searchEditor.findMatchBorder": "◊(eg-color 'orange5)33",
 		"searchEditor.textInputBorder": "◊(eg-color 'orange8)",
+
+		// Editor symbol highlight
 		"editor.symbolHighlightBackground": "◊(eg-color 'purple)11",
 		"editor.symbolHighlightBorder": "◊(eg-color 'purple)33",
+
+		// Editor pane
 		"editorPane.background": "◊(eg-color 'bg2)",
+
+		// Link
 		"editorLink.activeForeground": "◊(eg-color 'blue)",
+
+		// Indent guide, ruler
 		"editorIndentGuide.background": "◊(eg-color 'grey1)",
 		"editorIndentGuide.activeBackground": "◊(eg-color 'grey2)",
 		"editorRuler.foreground": "◊(eg-color 'grey2)",
+
 		"editor.linkedEditingBackground": "◊(eg-color 'bg2)",
+
+		// Bracket match
 		"editorBracketMatch.background": "◊(eg-color 'bg2)",
 		"editorBracketMatch.border": "◊(eg-color 'grey2)",
+
 		"editor.foldBackground": "◊(eg-color 'bg2)",
+
+		// Editor overview ruler
 		"editorOverviewRuler.background": "◊(eg-color 'bg2)",
 		"editorOverviewRuler.border": "◊(eg-color 'grey1)",
 		"editorOverviewRuler.findMatchForeground": "◊(eg-color 'purple)88",
@@ -180,6 +223,8 @@
 		"editorOverviewRuler.warningForeground": "◊(eg-color 'orange)dd",
 		"editorOverviewRuler.infoForeground": "◊(eg-color 'blue)dd",
 		"editorOverviewRuler.bracketMatchForeground": "◊(eg-color 'grey8)88",
+
+		// Errors, Warnings, etc
 		"editorError.foreground": "◊(eg-color 'red8)",
 		"editorError.background": "◊(eg-color 'red1)",
 		"editorError.border": "◊(eg-color 'red)",
@@ -191,19 +236,26 @@
 		"editorInfo.border": "◊(eg-color 'bg)",
 		"editorHint.foreground": "◊(eg-color 'grey8)",
 		"editorHint.border": "◊(eg-color 'grey4)",
+
+		// Gutter
 		"editorGutter.background": "◊(eg-color 'bg)",
 		"editorGutter.modifiedBackground": "◊(eg-color 'blue5)",
 		"editorGutter.addedBackground": "◊(eg-color 'green6)",
 		"editorGutter.deletedBackground": "◊(eg-color 'red5)",
 		"editorGutter.foldingControlForeground": "◊(eg-color 'grey6)",
+		"editorGutter.commentRangeForeground": "◊(eg-color 'grey8)",
+
 		"editorCodeLens.foreground": "◊(eg-color 'grey6)",
+
 		"editorGroup.border": "◊(eg-color 'grey3)",
 		"editorGroup.emptyBackground": "◊(eg-color 'grey1)",
 		"editorGroup.dropBackground": "◊(eg-color 'purple4)44",
+
 		"diffEditor.insertedTextBackground": "◊(eg-color 'green3)33",
 		"diffEditor.removedTextBackground": "◊(eg-color 'red3)33",
 		"diffEditor.border": "◊(eg-color 'grey2)",
 		"diffEditor.diagonalFill": "◊(eg-color 'grey2)",
+
 		"panel.background": "◊(eg-color 'bg2)",
 		"panel.border": "◊(eg-color 'grey2)",
 		"panel.dropBorder": "◊(eg-color 'grey4)",
@@ -211,8 +263,10 @@
 		"panelTitle.activeForeground": "◊(eg-color 'fg)",
 		"panelTitle.inactiveForeground": "◊(eg-color 'grey6)",
 		"panelSectionHeader.background": "◊(eg-color 'orange1)",
+
 		"badge.background": "◊(eg-color 'grey2)",
 		"badge.foreground": "◊(eg-color 'fg)",
+
 		"terminal.foreground": "◊(eg-color 'fg)",
 		"terminal.selectionBackground": "◊(eg-color 'bg2)",
 		"terminalCursor.background": "◊(eg-color 'bg2)",
@@ -234,12 +288,15 @@
 		"terminal.ansiBrightRed": "◊(eg-color 'red)",
 		"terminal.ansiBrightWhite": "◊(eg-color 'bg)",
 		"terminal.ansiBrightYellow": "◊(eg-color 'orange)",
+
 		"breadcrumb.background": "◊(eg-color 'bg)",
 		"breadcrumb.foreground": "◊(eg-color 'grey7)",
 		"breadcrumb.focusForeground": "◊(eg-color 'grey9)",
 		"breadcrumb.activeSelectionForeground": "◊(eg-color 'purple)",
+
 		"editorGroupHeader.tabsBackground": "◊(eg-color 'grey1)",
 		"editorGroupHeader.noTabsBackground": "◊(eg-color 'bg2)",
+
 		"tab.activeForeground": "◊(eg-color 'fg)",
 		"tab.border": "◊(eg-color 'grey1)",
 		"tab.activeBackground": "◊(eg-color 'bg)",
@@ -248,19 +305,29 @@
 		"tab.inactiveBackground": "◊(eg-color 'bg2)",
 		"tab.inactiveForeground": "◊(eg-color 'grey7)",
 		"tab.lastPinnedBorder": "◊(eg-color 'grey2)",
+
 		"scrollbarSlider.background": "◊(eg-color 'grey5)",
 		"scrollbarSlider.hoverBackground": "◊(eg-color 'grey4)",
 		"scrollbarSlider.activeBackground": "◊(eg-color 'grey3)",
+
 		"progressBar.background": "◊(eg-color 'purple8)",
+
 		"widget.shadow": "◊(eg-color 'grey3)",
+
 		"editorWidget.foreground": "◊(eg-color 'fg)",
 		"editorWidget.background": "◊(eg-color 'bg)",
 		"editorWidget.border": "◊(eg-color 'grey2)",
 		"editorWidget.resizeBorder": "◊(eg-color 'grey3)",
+
 		"pickerGroup.border": "◊(eg-color 'grey2)",
 		"pickerGroup.foreground": "◊(eg-color 'fg)",
+
 		"debugToolBar.background": "◊(eg-color 'bg2)",
 		"debugToolBar.border": "◊(eg-color 'bg2)",
+
+		"debugExceptionWidget.background": "◊(eg-color 'bg)",
+		"debugExceptionWidget.border": "◊(eg-color 'grey2)"
+
 		"notifications.foreground": "◊(eg-color 'fg)",
 		"notifications.background": "◊(eg-color 'bg2)",
 		"notificationToast.border": "◊(eg-color 'grey2)",
@@ -271,6 +338,7 @@
 		"notificationCenterHeader.foreground": "◊(eg-color 'fg)",
 		"notificationCenterHeader.background": "◊(eg-color 'bg2)",
 		"notifications.border": "◊(eg-color 'grey1)",
+
 		"gitDecoration.addedResourceForeground": "◊(eg-color 'green)",
 		"gitDecoration.conflictingResourceForeground": "◊(eg-color 'teal)",
 		"gitDecoration.deletedResourceForeground": "◊(eg-color 'red)",
@@ -280,19 +348,22 @@
 		"gitDecoration.stageModifiedResourceForeground": "◊(eg-color 'blue)",
 		"gitDecoration.submoduleResourceForeground": "◊(eg-color 'orange)",
 		"gitDecoration.untrackedResourceForeground": "◊(eg-color 'fg)",
+
 		"editorMarkerNavigation.background": "◊(eg-color 'bg)",
 		"editorMarkerNavigationError.background": "◊(eg-color 'red2)",
 		"editorMarkerNavigationWarning.background": "◊(eg-color 'orange2)",
 		"editorMarkerNavigationInfo.background": "◊(eg-color 'blue2)",
-		// TODO: test merge conflict
+
 		"merge.currentHeaderBackground": "◊(eg-color 'teal)28",
 		"merge.currentContentBackground": "◊(eg-color 'teal)11",
 		"merge.incomingHeaderBackground": "◊(eg-color 'blue)28",
 		"merge.incomingContentBackground": "◊(eg-color 'blue)11",
 		"merge.commonHeaderBackground": "◊(eg-color 'orange8)28",
 		"merge.commonContentBackground": "◊(eg-color 'orange8)11",
+
 		"editorOverviewRuler.currentContentForeground": "◊(eg-color 'teal)44",
 		"editorOverviewRuler.incomingContentForeground": "◊(eg-color 'blue)44",
+
 		"editorSuggestWidget.background": "◊(eg-color 'bg)",
 		"editorSuggestWidget.border": "◊(eg-color 'grey2)",
 		"editorSuggestWidget.foreground": "◊(eg-color 'fg)",
@@ -301,10 +372,12 @@
 		"editorSuggestWidget.selectedForeground": "◊(eg-color 'bg)",
 		"editorSuggestWidget.selectedIconForeground": "◊(eg-color 'purple1)",
 		"editorSuggestWidget.selectedBackground": "◊(eg-color 'purple8)",
+
 		"editorGhostText.foreground": "◊(eg-color 'grey4)",
 		"editorHoverWidget.foreground": "◊(eg-color 'fg)",
 		"editorHoverWidget.background": "◊(eg-color 'bg2)",
 		"editorHoverWidget.border": "◊(eg-color 'grey4)",
+
 		"peekView.border": "◊(eg-color 'blue4)",
 		"peekViewEditor.background": "◊(eg-color 'bg2)",
 		"peekViewEditorGutter.background": "◊(eg-color 'bg2)",
@@ -319,32 +392,39 @@
 		"peekViewTitle.background": "◊(eg-color 'bg2)",
 		"peekViewTitleDescription.foreground": "◊(eg-color 'blue)",
 		"peekViewTitleLabel.foreground": "◊(eg-color 'fg)",
+
 		"icon.foreground": "◊(eg-color 'fg)",
+
 		"checkbox.background": "◊(eg-color 'bg)",
 		"checkbox.foreground": "◊(eg-color 'purple)",
 		"checkbox.border": "◊(eg-color 'grey8)",
+
 		"dropdown.background": "◊(eg-color 'bg)",
 		"dropdown.foreground": "◊(eg-color 'fg)",
 		"dropdown.border": "◊(eg-color 'grey6)",
+
 		"minimapSlider.background": "◊(eg-color 'grey8)25",
 		"minimapSlider.hoverBackground": "◊(eg-color 'grey8)35",
 		"minimapGutter.addedBackground": "◊(eg-color 'green7)",
 		"minimapGutter.modifiedBackground": "◊(eg-color 'blue7)",
 		"minimapGutter.deletedBackground": "◊(eg-color 'red7)",
+
 		"minimap.findMatchHighlight": "◊(eg-color 'grey4)",
 		"minimap.selectionHighlight": "◊(eg-color 'purple2)",
 		"minimap.errorHighlight": "◊(eg-color 'red8)",
 		"minimap.warningHighlight": "◊(eg-color 'orange8)",
 		"minimap.background": "◊(eg-color 'bg)",
+
 		"sideBar.dropBackground": "◊(eg-color 'blue2)",
+
 		"editorGroup.emptyBackground": "◊(eg-color 'bg)",
+
 		"panelSection.border": "◊(eg-color 'grey4)",
+
 		"settings.headerForeground": "◊(eg-color 'fg)",
 		"settings.focusedRowBackground": "◊(eg-color 'bg2)",
+
 		"walkThrough.embeddedEditorBackground": "◊(eg-color 'bg)",
-		"editorGutter.commentRangeForeground": "◊(eg-color 'grey8)",
-		"debugExceptionWidget.background": "◊(eg-color 'bg)",
-		"debugExceptionWidget.border": "◊(eg-color 'grey2)"
 	},
 	"tokenColors": [
 		{
