@@ -333,7 +333,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "◊(eg-color 'grey5)"
+				"foreground": "◊(eg-color 'grey6)"
 			}
 		},
 		{
@@ -341,7 +341,7 @@
 			"scope": "comment.block.preprocessor",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "◊(eg-color 'grey5)"
+				"foreground": "◊(eg-color 'grey6)"
 			}
 		},
 		{
@@ -351,7 +351,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "◊(eg-color 'grey5)"
+				"foreground": "◊(eg-color 'grey6)"
 			}
 		},
 		{
@@ -503,7 +503,7 @@
 				"meta.tag.sgml punctuation.definition.tag.html"
 			],
 			"settings": {
-				"foreground": "◊(eg-color 'grey5)"
+				"foreground": "◊(eg-color 'grey6)"
 			}
 		},
 		{

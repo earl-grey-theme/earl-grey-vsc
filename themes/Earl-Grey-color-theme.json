@@ -332,7 +332,7 @@
                         ],
                         "settings": {
                                 "fontStyle": "italic",
-                                "foreground": "#AEABA6"
+                                "foreground": "#9E9A95"
                         }
                 },
                 {
@@ -340,7 +340,7 @@
                         "scope": "comment.block.preprocessor",
                         "settings": {
                                 "fontStyle": "",
-                                "foreground": "#AEABA6"
+                                "foreground": "#9E9A95"
                         }
                 },
                 {
@@ -350,7 +350,7 @@
                                 "comment.block.documentation"
                         ],
                         "settings": {
-                                "foreground": "#AEABA6"
+                                "foreground": "#9E9A95"
                         }
                 },
                 {
@@ -502,7 +502,7 @@
                                 "meta.tag.sgml punctuation.definition.tag.html"
                         ],
                         "settings": {
-                                "foreground": "#AEABA6"
+                                "foreground": "#9E9A95"
                         }
                 },
                 {
