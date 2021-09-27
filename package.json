@@ -3,6 +3,8 @@
     "displayName": "Earl Grey",
     "description": "A gentle color scheme, for code",
     "version": "0.0.1",
+    "publisher": "june-kelly",
+    "repository": "https://github.com/earl-grey-theme/earl-grey-vsc",
     "engines": {
         "vscode": "^1.57.0"
     },
