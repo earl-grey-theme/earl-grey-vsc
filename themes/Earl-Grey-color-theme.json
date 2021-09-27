@@ -120,23 +120,35 @@
                 "editorWhitespace.foreground": "#BEBBB6",
                 "editorInlayHint.background": "#F7F3EE",
                 "editorInlayHint.foreground": "#7F7A73",
+
                 "editor.background": "#FCFBF9",
                 "editor.foreground": "#605A52",
+
                 "editor.selectionBackground": "#F0EBED",
                 "editor.inactiveSelectionBackground": "#BEBBB633",
-                "editor.selectionHighlightBackground": "#E4DAE022",
-                "editor.selectionHighlightBorder": "#E4DAE0",
-                "editor.findMatchBackground": "#F0EBED00",
-                "editor.findMatchBorder": "#83577D44",
-                "editor.findMatchHighlightBackground": "#477A7B11",
-                "editor.findRangeHighlightBackground": "#477A7B11",
-                "editor.rangeHighlightBackground": "#E4DAE033",
-                "editor.rangeHighlightBorder": "#B399AF33",
-                "editor.hoverHighlightBackground": "#477A7B11",
-                "editor.wordHighlightBackground": "#477A7B11",
-                "editor.wordHighlightStrongBackground": "#477A7B11",
-                "editor.wordHighlightStrongBorder": "#477A7B33",
+
+                "editor.selectionHighlightBackground": "#83577D11",
+                "editor.selectionHighlightBorder": "#E4DAE022",
+
+                "editor.findMatchBackground": "#EBECEF",
+                "editor.findMatchBorder": "#55699544",
+
+                "editor.findMatchHighlightBackground": "#55699511",
+                "editor.findMatchHighlightBorder": "#55699511",
+
+                "editor.findRangeHighlightBackground": "#55699522",
+
+                "editor.rangeHighlightBackground": "#F0EBED33",
+                "editor.rangeHighlightBorder": "#F0EBED33",
+
+                "editor.hoverHighlightBackground": "#5569951d",
+
+                "editor.wordHighlightBackground": "#83577D11",
+                "editor.wordHighlightStrongBackground": "#83577D11",
+                "editor.wordHighlightStrongBorder": "#83577D33",
+
                 "editor.lineHighlightBorder": "#BEBBB633",
+
                 "searchEditor.findMatchBackground": "#F0EDE7",
                 "searchEditor.findMatchBorder": "#C2B39F33",
                 "searchEditor.textInputBorder": "#9F8768",

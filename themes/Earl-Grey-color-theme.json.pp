@@ -121,23 +121,35 @@
 		"editorWhitespace.foreground": "◊(eg-color 'grey4)",
 		"editorInlayHint.background": "◊(eg-color 'bg2)",
 		"editorInlayHint.foreground": "◊(eg-color 'grey8)",
+
 		"editor.background": "◊(eg-color 'bg)",
 		"editor.foreground": "◊(eg-color 'fg)",
+
 		"editor.selectionBackground": "◊(eg-color 'purple1)",
 		"editor.inactiveSelectionBackground": "◊(eg-color 'grey4)33",
-		"editor.selectionHighlightBackground": "◊(eg-color 'purple2)22",
-		"editor.selectionHighlightBorder": "◊(eg-color 'purple2)",
-		"editor.findMatchBackground": "◊(eg-color 'purple1)00",
-		"editor.findMatchBorder": "◊(eg-color 'purple)44",
-		"editor.findMatchHighlightBackground": "◊(eg-color 'teal)11",
-		"editor.findRangeHighlightBackground": "◊(eg-color 'teal)11",
-		"editor.rangeHighlightBackground": "◊(eg-color 'purple2)33",
-		"editor.rangeHighlightBorder": "◊(eg-color 'purple6)33",
-		"editor.hoverHighlightBackground": "◊(eg-color 'teal)11",
-		"editor.wordHighlightBackground": "◊(eg-color 'teal)11",
-		"editor.wordHighlightStrongBackground": "◊(eg-color 'teal)11",
-		"editor.wordHighlightStrongBorder": "◊(eg-color 'teal)33",
+
+		"editor.selectionHighlightBackground": "◊(eg-color 'purple)11",
+		"editor.selectionHighlightBorder": "◊(eg-color 'purple2)22",
+
+		"editor.findMatchBackground": "◊(eg-color 'blue1)",
+		"editor.findMatchBorder": "◊(eg-color 'blue)44",
+
+		"editor.findMatchHighlightBackground": "◊(eg-color 'blue)11",
+		"editor.findMatchHighlightBorder": "◊(eg-color 'blue)11",
+
+		"editor.findRangeHighlightBackground": "◊(eg-color 'blue)22",
+
+		"editor.rangeHighlightBackground": "◊(eg-color 'purple1)33",
+		"editor.rangeHighlightBorder": "◊(eg-color 'purple1)33",
+
+		"editor.hoverHighlightBackground": "◊(eg-color 'blue)1d",
+
+		"editor.wordHighlightBackground": "◊(eg-color 'purple)11",
+		"editor.wordHighlightStrongBackground": "◊(eg-color 'purple)11",
+		"editor.wordHighlightStrongBorder": "◊(eg-color 'purple)33",
+
 		"editor.lineHighlightBorder": "◊(eg-color 'grey4)33",
+
 		"searchEditor.findMatchBackground": "◊(eg-color 'orange1)",
 		"searchEditor.findMatchBorder": "◊(eg-color 'orange5)33",
 		"searchEditor.textInputBorder": "◊(eg-color 'orange8)",
