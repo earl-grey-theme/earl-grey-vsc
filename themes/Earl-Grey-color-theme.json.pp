@@ -326,7 +326,7 @@
 		"debugToolBar.border": "◊(eg-color 'bg2)",
 
 		"debugExceptionWidget.background": "◊(eg-color 'bg)",
-		"debugExceptionWidget.border": "◊(eg-color 'grey2)"
+		"debugExceptionWidget.border": "◊(eg-color 'grey2)",
 
 		"notifications.foreground": "◊(eg-color 'fg)",
 		"notifications.background": "◊(eg-color 'bg2)",
@@ -363,7 +363,6 @@
 
 		"editorOverviewRuler.currentContentForeground": "◊(eg-color 'teal)44",
 		"editorOverviewRuler.incomingContentForeground": "◊(eg-color 'blue)44",
-
 		"editorSuggestWidget.background": "◊(eg-color 'bg)",
 		"editorSuggestWidget.border": "◊(eg-color 'grey2)",
 		"editorSuggestWidget.foreground": "◊(eg-color 'fg)",
@@ -372,7 +371,6 @@
 		"editorSuggestWidget.selectedForeground": "◊(eg-color 'bg)",
 		"editorSuggestWidget.selectedIconForeground": "◊(eg-color 'purple1)",
 		"editorSuggestWidget.selectedBackground": "◊(eg-color 'purple8)",
-
 		"editorGhostText.foreground": "◊(eg-color 'grey4)",
 		"editorHoverWidget.foreground": "◊(eg-color 'fg)",
 		"editorHoverWidget.background": "◊(eg-color 'bg2)",
@@ -398,7 +396,6 @@
 		"checkbox.background": "◊(eg-color 'bg)",
 		"checkbox.foreground": "◊(eg-color 'purple)",
 		"checkbox.border": "◊(eg-color 'grey8)",
-
 		"dropdown.background": "◊(eg-color 'bg)",
 		"dropdown.foreground": "◊(eg-color 'fg)",
 		"dropdown.border": "◊(eg-color 'grey6)",
@@ -408,7 +405,6 @@
 		"minimapGutter.addedBackground": "◊(eg-color 'green7)",
 		"minimapGutter.modifiedBackground": "◊(eg-color 'blue7)",
 		"minimapGutter.deletedBackground": "◊(eg-color 'red7)",
-
 		"minimap.findMatchHighlight": "◊(eg-color 'grey4)",
 		"minimap.selectionHighlight": "◊(eg-color 'purple2)",
 		"minimap.errorHighlight": "◊(eg-color 'red8)",
@@ -424,7 +420,7 @@
 		"settings.headerForeground": "◊(eg-color 'fg)",
 		"settings.focusedRowBackground": "◊(eg-color 'bg2)",
 
-		"walkThrough.embeddedEditorBackground": "◊(eg-color 'bg)",
+		"walkThrough.embeddedEditorBackground": "◊(eg-color 'bg)"
 	},
 	"tokenColors": [
 		{

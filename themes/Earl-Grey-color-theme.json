@@ -325,7 +325,7 @@
                 "debugToolBar.border": "#F7F3EE",
 
                 "debugExceptionWidget.background": "#FCFBF9",
-                "debugExceptionWidget.border": "#DDDBD8"
+                "debugExceptionWidget.border": "#DDDBD8",
 
                 "notifications.foreground": "#605A52",
                 "notifications.background": "#F7F3EE",
@@ -362,7 +362,6 @@
 
                 "editorOverviewRuler.currentContentForeground": "#477A7B44",
                 "editorOverviewRuler.incomingContentForeground": "#55699544",
-
                 "editorSuggestWidget.background": "#FCFBF9",
                 "editorSuggestWidget.border": "#DDDBD8",
                 "editorSuggestWidget.foreground": "#605A52",
@@ -371,7 +370,6 @@
                 "editorSuggestWidget.selectedForeground": "#FCFBF9",
                 "editorSuggestWidget.selectedIconForeground": "#F0EBED",
                 "editorSuggestWidget.selectedBackground": "#9B7896",
-
                 "editorGhostText.foreground": "#BEBBB6",
                 "editorHoverWidget.foreground": "#605A52",
                 "editorHoverWidget.background": "#F7F3EE",
@@ -397,7 +395,6 @@
                 "checkbox.background": "#FCFBF9",
                 "checkbox.foreground": "#83577D",
                 "checkbox.border": "#7F7A73",
-
                 "dropdown.background": "#FCFBF9",
                 "dropdown.foreground": "#605A52",
                 "dropdown.border": "#9E9A95",
@@ -407,7 +404,6 @@
                 "minimapGutter.addedBackground": "#9DA181",
                 "minimapGutter.modifiedBackground": "#8795B3",
                 "minimapGutter.deletedBackground": "#B08884",
-
                 "minimap.findMatchHighlight": "#BEBBB6",
                 "minimap.selectionHighlight": "#E4DAE0",
                 "minimap.errorHighlight": "#A57773",
@@ -423,7 +419,7 @@
                 "settings.headerForeground": "#605A52",
                 "settings.focusedRowBackground": "#F7F3EE",
 
-                "walkThrough.embeddedEditorBackground": "#FCFBF9",
+                "walkThrough.embeddedEditorBackground": "#FCFBF9"
         },
         "tokenColors": [
                 {
