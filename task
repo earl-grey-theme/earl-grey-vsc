@@ -1,0 +1,20 @@
+#! /usr/bin/env bash
+
+set -euo pipefail
+
+function build () {
+    raco pollen render themes/Earl-Grey-color-theme.json
+}
+
+function help () {
+    echo "Usage: $0 <task> <args>"
+    echo 'Tasks:'
+    compgen -A function | cat -n
+}
+
+function default () {
+    help
+}
+
+TIMEFORMAT="Task completed in %3lR"
+time ${@:-default}
