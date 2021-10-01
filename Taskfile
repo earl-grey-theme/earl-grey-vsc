@@ -6,6 +6,19 @@ function build () {
     raco pollen render themes/Earl-Grey-color-theme.json
 }
 
+function maybe-build () {
+    if [ "themes/Earl-Grey-color-theme.json" -ot "themes/Earl-Grey-color-theme.json.pp" ]; then
+        build
+    fi
+}
+
+function watch-build () {
+    while true; do
+      maybe-build
+      sleep 2
+    done
+}
+
 function help () {
     echo "Usage: $0 <task> <args>"
     echo 'Tasks:'
