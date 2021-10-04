@@ -13,9 +13,11 @@ function maybe-build () {
 }
 
 function watch-build () {
+    local watch_interval=2
+    echo "Watching build (${watch_interval} seconds)"
     while true; do
       maybe-build
-      sleep 2
+      sleep "${watch_interval}"
     done
 }
 
