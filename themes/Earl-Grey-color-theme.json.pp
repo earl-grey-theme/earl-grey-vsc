@@ -4,14 +4,86 @@
 	"type": "light",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-		"enumMember": {
-		    "foreground": "◊(eg-color 'fg)"
+		"namespace": {
+			"foreground": "◊(eg-color 'orange)"
 		},
-		"variable.constant": {
-		    "foreground": "◊(eg-color 'teal)"
+		"class": {
+			"foreground": "◊(eg-color 'fg)",
+			"fontStyle": "italic"
+		},
+		"enum": {
+			"foreground": "◊(eg-color 'fg)",
+			"fontStyle": "italic"
+		},
+		"interface": {
+			"foreground": "◊(eg-color 'fg)",
+			"fontStyle": "italic"
+		},
+		"struct": {
+			"foreground": "◊(eg-color 'fg)",
+			"fontStyle": "italic"
+		},
+		"typeParameter": {
+			"foreground": "◊(eg-color 'orange)",
+			"fontStyle": "italic"
+		},
+		"type": {
+			"foreground": "◊(eg-color 'fg)",
+			"fontStyle": "italic"
+		},
+		"parameter": {
+			"forground": "◊(eg-color 'fg)"
+		},
+		"variable": {
+			"forground": "◊(eg-color 'blue)"
 		},
 		"variable.defaultLibrary": {
 		    "foreground": "◊(eg-color 'fg)"
+		},
+		"property": {
+			◊;; TODO: italic?
+			"forground": "◊(eg-color 'fg)"
+		},
+		"enumMember": {
+			"foreground": "◊(eg-color 'fg)",
+			"fontStyle": "italic"
+		},
+		"event": {
+			"forground": "◊(eg-color 'fg)"
+		},
+		"function": {
+			"foreground": "◊(eg-color 'fg)",
+			"fontStyle": "italic"
+		},
+		"method": {
+			"foreground": "◊(eg-color 'fg)",
+			"fontStyle": "italic"
+		},
+		"macro": {
+			"foreground": "◊(eg-color 'orange)",
+			"fontStyle": "italic"
+		},
+		"label": {
+			◊;; TODO: ??
+			"forground": "◊(eg-color 'orange)"
+		},
+		"comment": {
+			"forground": "◊(eg-color 'grey6)"
+		},
+		"string": {
+			"forground": "◊(eg-color 'green)"
+		},
+		"keyword": {
+			"forground": "◊(eg-color 'purple)"
+		},
+		"number": {
+			"forground": "◊(eg-color 'teal)"
+		},
+		"regexp": {
+			"forground": "◊(eg-color 'orange)"
+		},
+		"operator": {
+			"forground": "◊(eg-color 'fg)"
 		}
 	},
 	"colors": {

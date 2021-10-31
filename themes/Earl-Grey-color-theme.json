@@ -3,14 +3,84 @@
         "type": "light",
         "semanticHighlighting": true,
         "semanticTokenColors": {
-                "enumMember": {
-                    "foreground": "#605A52"
+                "namespace": {
+                        "foreground": "#886A44"
                 },
-                "variable.constant": {
-                    "foreground": "#477A7B"
+                "class": {
+                        "foreground": "#605A52",
+                        "fontStyle": "italic"
+                },
+                "enum": {
+                        "foreground": "#605A52",
+                        "fontStyle": "italic"
+                },
+                "interface": {
+                        "foreground": "#605A52",
+                        "fontStyle": "italic"
+                },
+                "struct": {
+                        "foreground": "#605A52",
+                        "fontStyle": "italic"
+                },
+                "typeParameter": {
+                        "foreground": "#886A44",
+                        "fontStyle": "italic"
+                },
+                "type": {
+                        "foreground": "#605A52",
+                        "fontStyle": "italic"
+                },
+                "parameter": {
+                        "forground": "#605A52"
+                },
+                "variable": {
+                        "forground": "#556995"
                 },
                 "variable.defaultLibrary": {
                     "foreground": "#605A52"
+                },
+                "property": {
+                        "forground": "#605A52"
+                },
+                "enumMember": {
+                        "foreground": "#605A52",
+                        "fontStyle": "italic"
+                },
+                "event": {
+                        "forground": "#605A52"
+                },
+                "function": {
+                        "foreground": "#605A52",
+                        "fontStyle": "italic"
+                },
+                "method": {
+                        "foreground": "#605A52",
+                        "fontStyle": "italic"
+                },
+                "macro": {
+                        "foreground": "#886A44",
+                        "fontStyle": "italic"
+                },
+                "label": {
+                        "forground": "#886A44"
+                },
+                "comment": {
+                        "forground": "#9E9A95"
+                },
+                "string": {
+                        "forground": "#747B4D"
+                },
+                "keyword": {
+                        "forground": "#83577D"
+                },
+                "number": {
+                        "forground": "#477A7B"
+                },
+                "regexp": {
+                        "forground": "#886A44"
+                },
+                "operator": {
+                        "forground": "#605A52"
                 }
         },
         "colors": {
