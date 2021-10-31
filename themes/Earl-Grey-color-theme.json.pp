@@ -41,7 +41,6 @@
 		    "foreground": "◊(eg-color 'fg)"
 		},
 		"property": {
-			◊;; TODO: italic?
 			"forground": "◊(eg-color 'fg)"
 		},
 		"enumMember": {
@@ -64,7 +63,6 @@
 			"fontStyle": "italic"
 		},
 		"label": {
-			◊;; TODO: ??
 			"forground": "◊(eg-color 'orange)"
 		},
 		"comment": {
