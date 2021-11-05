@@ -290,7 +290,7 @@
 		"editorGroup.emptyBackground": "◊(eg-color 'grey1)",
 		"editorGroup.dropBackground": "◊(eg-color 'purple4)44",
 		"diffEditor.insertedTextBackground": "◊(eg-color 'green3)33",
-		"diffEditor.removedTextBackground": "◊(eg-color 'red3)33",
+		"diffEditor.removedTextBackground": "◊(eg-color 'red4)33",
 		"diffEditor.border": "◊(eg-color 'grey2)",
 		"diffEditor.diagonalFill": "◊(eg-color 'grey2)",
 		"panel.background": "◊(eg-color 'bg2)",

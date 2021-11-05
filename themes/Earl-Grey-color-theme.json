@@ -261,7 +261,7 @@
                 "editorGroup.emptyBackground": "#ECEBE8",
                 "editorGroup.dropBackground": "#CCB9C744",
                 "diffEditor.insertedTextBackground": "#D3D5C533",
-                "diffEditor.removedTextBackground": "#DBCAC733",
+                "diffEditor.removedTextBackground": "#D0B9B633",
                 "diffEditor.border": "#DDDBD8",
                 "diffEditor.diagonalFill": "#DDDBD8",
                 "panel.background": "#F7F3EE",
