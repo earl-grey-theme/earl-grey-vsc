@@ -4,7 +4,8 @@ A gentle color scheme, for (visual studio) code.
 
 Website: https://earl-grey.halt.wtf
 
-![Earl Grey demo with javascript code](./eg-demo.png)
+![Earl Grey demo with Javascript code](./eg-demo.png)
+![Full demonstration in Visual Studio Code](./vsc-demo.png)
 
 
 ## Installation
