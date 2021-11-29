@@ -21,6 +21,11 @@ function watch-build () {
     done
 }
 
+function package () {
+  build
+  vsce publish
+}
+
 function help () {
     echo "Usage: $0 <task> <args>"
     echo 'Tasks:'
