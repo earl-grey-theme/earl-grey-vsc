@@ -23,7 +23,7 @@ function watch-build () {
 
 function package () {
   build
-  vsce publish
+  vsce package
 }
 
 function help () {
