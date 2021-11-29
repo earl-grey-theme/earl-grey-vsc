@@ -4,19 +4,25 @@ A gentle color scheme, for (visual studio) code.
 
 Website: https://earl-grey.halt.wtf
 
+On the Visual Studio Code Marketplace: https://marketplace.visualstudio.com/items?itemName=EarlGrey.earl-grey
+
 ![Earl Grey demo with Javascript code](./eg-demo.png)
 ![Full demonstration in Visual Studio Code](./vsc-demo.png)
 
 
 ## Installation
 
-Coming Soon...
+In Visual Studio Code, open the command pallette (`Ctrl-P`), and type:
 
+```
+ext install EarlGrey.earl-grey
+```
 
 ## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
+The best way to contribute is to [open an issue](https://github.com/earl-grey-theme/earl-grey-vsc/issues/new), describing a problem with the theme. We will endeavour to fix it!
 
 ## License
 
