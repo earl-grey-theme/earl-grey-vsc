@@ -250,6 +250,14 @@
 		◊;; Bracket match
 		"editorBracketMatch.background": "◊(eg-color 'bg2)",
 		"editorBracketMatch.border": "◊(eg-color 'grey2)",
+		◊;; Bracket highlight
+		"editorBracketHighlight.foreground1": "◊(eg-color 'purple8)",
+		"editorBracketHighlight.foreground2": "◊(eg-color 'blue8)",
+		"editorBracketHighlight.foreground3": "◊(eg-color 'teal8)",
+		"editorBracketHighlight.foreground4": "◊(eg-color 'orange8)",
+		"editorBracketHighlight.foreground5": "◊(eg-color 'green8)",
+		"editorBracketHighlight.foreground6": "◊(eg-color 'red8)",
+		◊;; Fold
 		"editor.foldBackground": "◊(eg-color 'bg2)",
 		◊;; Editor overview ruler
 		"editorOverviewRuler.background": "◊(eg-color 'bg2)",
