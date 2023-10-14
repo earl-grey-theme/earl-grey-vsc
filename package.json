@@ -2,7 +2,7 @@
     "name": "earl-grey",
     "displayName": "Earl Grey",
     "description": "A gentle color scheme, for code",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "publisher": "EarlGrey",
     "repository": "https://github.com/earl-grey-theme/earl-grey-vsc",
     "engines": {
