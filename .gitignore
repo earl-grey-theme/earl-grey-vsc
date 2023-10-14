@@ -7,3 +7,5 @@ tmp/
 **/compiled
 
 .vscode/
+
+*.vsix
