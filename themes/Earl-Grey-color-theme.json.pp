@@ -275,15 +275,9 @@
 		"editorOverviewRuler.infoForeground": "◊(eg-color 'blue)dd",
 		"editorOverviewRuler.bracketMatchForeground": "◊(eg-color 'grey8)88",
 		◊;; Errors, Warnings, etc
-		"editorError.foreground": "◊(eg-color 'red8)",
-		"editorError.background": "◊(eg-color 'red1)",
-		"editorError.border": "◊(eg-color 'red)",
-		"editorWarning.foreground": "◊(eg-color 'bg)",
-		"editorWarning.background": "◊(eg-color 'orange2)",
-		"editorWarning.border": "◊(eg-color 'bg)",
-		"editorInfo.foreground": "◊(eg-color 'bg)",
-		"editorInfo.background": "◊(eg-color 'blue)",
-		"editorInfo.border": "◊(eg-color 'bg)",
+		"editorError.foreground": "◊(eg-color 'red)",
+		"editorWarning.foreground": "◊(eg-color 'teal)",
+		"editorInfo.foreground": "◊(eg-color 'blue)",
 		"editorHint.foreground": "◊(eg-color 'grey8)",
 		"editorHint.border": "◊(eg-color 'grey4)",
 		◊;; Gutter
